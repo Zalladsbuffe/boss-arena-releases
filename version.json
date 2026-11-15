@@ -1,7 +1,7 @@
 {
- "version": 69,
- "name": "v69 · Nov 16 · Crafting to level 40, smooth shadows, error box",
+ "version": 70,
+ "name": "v70 · Nov 16 · Fix grass crash on bare ground",
  "file": "game.html",
- "size": 7810878,
- "sha256": "1b068d1e0695c6976e6657cd405d95d8dbb976a761cb6e640abcc5594e95b92f"
+ "size": 7810925,
+ "sha256": "dada70e2298456e2ed15204a09ac25555ec7cbb47aef89a0ae96ff496866390e"
 }
