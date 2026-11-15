@@ -1,7 +1,7 @@
 {
- "version": 67,
- "name": "v67 · Nov 16 · Test mode: blink without cooldown",
+ "version": 68,
+ "name": "v68 · Nov 16 · Fix crash inside houses",
  "file": "game.html",
- "size": 7779076,
- "sha256": "65f1e87679aecdf4b7269e1ee7dd64fa1bbd00989dd7726509b0cdf99d8ba837"
+ "size": 7779129,
+ "sha256": "8046d0c50a41de80cb6da7604bb3b1d52ee121535b1d2b8c437236b59809e8ce"
 }
