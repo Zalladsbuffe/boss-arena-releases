@@ -1,7 +1,7 @@
 {
- "version": 65,
- "name": "v65 · Nov 16 · Bigger bag (30 slots)",
+ "version": 66,
+ "name": "v66 · Nov 16 · DPS shown on one-shot kills",
  "file": "game.html",
- "size": 7778300,
- "sha256": "6b9bd0e71ec96193206318e1b9038c7ed3b52dc932fb7235000fb13fc0aa7ab2"
+ "size": 7778532,
+ "sha256": "d68ef28b5e56d2ee2bac2c400a559045c759875ae70284b806a7d828d78d2352"
 }
