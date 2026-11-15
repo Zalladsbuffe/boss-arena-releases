@@ -1,7 +1,7 @@
 {
- "version": 72,
- "name": "v72 · Nov 16 · Performance: far fewer draw calls",
+ "version": 73,
+ "name": "v73 · Nov 16 · Performance II: half the draw calls",
  "file": "game.html",
- "size": 7814853,
- "sha256": "27fe962209a9509c964fa001115bd70df61a760e16e954059f96ef7c8c09cbdf"
+ "size": 7818169,
+ "sha256": "12f3cbdf531ed8372ce62b10440dd3b65ac8fc7eeaccbab2d070eab570a9979a"
 }
