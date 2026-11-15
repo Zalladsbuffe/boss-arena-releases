@@ -1,7 +1,7 @@
 {
- "version": 71,
- "name": "v71 · Nov 16 · Buried City moved inside Sunscar",
+ "version": 72,
+ "name": "v72 · Nov 16 · Performance: far fewer draw calls",
  "file": "game.html",
- "size": 7810956,
- "sha256": "c0f2130a3cb9eb1bf3b3777fbc2051505412f57ff3820b28d9f181a45c80e5cd"
+ "size": 7814853,
+ "sha256": "27fe962209a9509c964fa001115bd70df61a760e16e954059f96ef7c8c09cbdf"
 }
