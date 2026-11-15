@@ -1,7 +1,7 @@
 {
- "version": 68,
- "name": "v68 · Nov 16 · Fix crash inside houses",
+ "version": 69,
+ "name": "v69 · Nov 16 · Crafting to level 40, smooth shadows, error box",
  "file": "game.html",
- "size": 7779129,
- "sha256": "8046d0c50a41de80cb6da7604bb3b1d52ee121535b1d2b8c437236b59809e8ce"
+ "size": 7810878,
+ "sha256": "1b068d1e0695c6976e6657cd405d95d8dbb976a761cb6e640abcc5594e95b92f"
 }
