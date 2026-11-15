@@ -1,7 +1,7 @@
 {
- "version": 66,
- "name": "v66 · Nov 16 · DPS shown on one-shot kills",
+ "version": 67,
+ "name": "v67 · Nov 16 · Test mode: blink without cooldown",
  "file": "game.html",
- "size": 7778532,
- "sha256": "d68ef28b5e56d2ee2bac2c400a559045c759875ae70284b806a7d828d78d2352"
+ "size": 7779076,
+ "sha256": "65f1e87679aecdf4b7269e1ee7dd64fa1bbd00989dd7726509b0cdf99d8ba837"
 }
