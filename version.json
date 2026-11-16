@@ -1,7 +1,7 @@
 {
- "version": 76,
- "name": "Performance III",
+ "version": 77,
+ "name": "Uncapped FPS option",
  "file": "game.html",
- "size": 7836714,
- "sha256": "5f15fa7fca984d0ee289ea3ff1b32ddb3e0d1f54c33c5b3e93d7bc4a0b09d116"
+ "size": 7837319,
+ "sha256": "a7c53e9837f8bf7a262af2a69e854966fad348a576339b616f8b05008dbc7287"
 }
